@@ -1,0 +1,11 @@
+{
+  "areas": [
+    {
+      "id": "roma",
+      "nome": {
+        "it": "Roma",
+        "en": "Rome"
+      }
+    }
+  ]
+}
