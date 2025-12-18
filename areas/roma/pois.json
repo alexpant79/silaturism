@@ -1,13 +1,20 @@
-[
-  {
-    "id": "colosseo",
-    "title": {
-      "it": "Colosseo",
-      "en": "Colosseum"
-    },
-    "description": {
-      "it": "Anfiteatro romano simbolo di Roma",
-      "en": "Iconic Roman amphitheatre"
+{
+  "pois": [
+    {
+      "id": "colosseo",
+      "lat": 41.8902,
+      "lng": 12.4922,
+      "title": { "it": "Colosseo" },
+      "description": {
+        "it": "Anfiteatro simbolo di Roma"
+      },
+      "images": [
+        "colosseo_1.jpg",
+        "colosseo_2.jpg"
+      ],
+      "audio": [
+        "colosseo_it.mp3"
+      ]
     }
-  }
-]
+  ]
+}
