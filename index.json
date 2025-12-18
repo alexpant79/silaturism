@@ -1,8 +1,12 @@
 {
   "areas": [
-    { "id": "roma", "nome": { "it": "Roma", "en": "Rome" } },
-    { "id": "milano", "nome": { "it": "Milano", "en": "Milan" } }
+    {
+      "id": "roma",
+      "nome": { "it": "Roma", "en": "Rome" },
+      "map": "maps/roma.mbtiles"
+    }
   ]
 }
+
 
 
