@@ -1,13 +1,8 @@
-
 {
   "areas": [
-    {
-      "id": "roma",
-      "nome": {
-        "it": "Roma",
-        "en": "Rome"
-      }
-    }
+    { "id": "roma", "nome": { "it": "Roma", "en": "Rome" } },
+    { "id": "milano", "nome": { "it": "Milano", "en": "Milan" } }
   ]
 }
+
 
