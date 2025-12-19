@@ -1,20 +1,21 @@
-{
-  "pois": [
-    {
-      "id": "colosseo",
-      "lat": 41.8902,
-      "lng": 12.4922,
-      "title": { "it": "Colosseo" },
-      "description": {
-        "it": "Anfiteatro simbolo di Roma"
-      },
-      "images": [
-        "colosseo_1.jpg",
-        "colosseo_2.jpg"
-      ],
-      "audio": [
-        "colosseo_it.mp3"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "poi1",
+    "lat": 39.33,
+    "lng": 16.47,
+    "title": "Lago Arvo",
+    "description": "Un lago bellissimo nella Sila",
+    "image": "assets/images/lago_arvo.jpg",
+    "audio": "assets/audio/lago_arvo.mp3"
+  },
+  {
+    "id": "poi2",
+    "lat": 39.34,
+    "lng": 16.49,
+    "title": "Rifugio Sila",
+    "description": "Rifugio per escursionisti",
+    "image": "assets/images/rifugio.jpg",
+    "audio": "assets/audio/rifugio.mp3"
+  }
+]
+
