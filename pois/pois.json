@@ -1,0 +1,17 @@
+[
+  {
+    "lat": 39.2856,
+    "lon": 16.4186,
+    "title": "Lago Arvo",
+    "description": "Il Lago Arvo è un bacino artificiale situato nel cuore della Sila Grande. Circondato da boschi di pini larici, è meta ideale per passeggiate naturalistiche e bird watching.",
+    "image": "lago_arvo.jpg",
+    "audio": "lago_arvo.mp3"
+  },
+  {
+    "lat": 39.3420,
+    "lon": 16.5234,
+    "title": "Camigliatello Silano",
+    "description": "Centro turistico principale della Sila, famoso per le piste da sci in inverno e i sentieri escursionistici in estate.",
+    "image": "camigliatello.jpg"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "maps": [
+    {
+      "id": "sila_grande",
+      "name": "Sila Grande Completa",
+      "description": "Mappa completa della Sila Grande con tutti i sentieri",
+      "size_mb": 52,
+      "url": "https://github.com/alexpant79/silaturism/tree/main/maps/sila_grande.mbtiles",
+      "pois_url": "https://github.com/alexpant79/silaturism/tree/main/pois/sila_grande_pois.json",
+      "pois_count": 25,
+      "version": "1.0",
+      "bounds": {
+        "north": 39.4,
+        "south": 39.0,
+        "east": 16.7,
+        "west": 16.3
+      },
+      "thumbnail": "https://github.com/alexpant79/silaturism/tree/main/maps/thumbs/sila_grande.jpg"
+    },
+    {
+      "id": "camigliatello",
+      "name": "Camigliatello Silano",
+      "description": "Area di Camigliatello con dettagli turistici",
+      "size_mb": 18,
+      "url": "https://github.com/alexpant79/silaturism/tree/main/maps/camigliatello.mbtiles",
+      "pois_url": "https://github.com/alexpant79/silaturism/tree/main/pois/camigliatello_pois.json",
+      "pois_count": 12,
+      "version": "1.0",
+      "bounds": {
+        "north": 39.37,
+        "south": 39.31,
+        "east": 16.58,
+        "west": 16.48
+      },
+      "thumbnail": "https://github.com/alexpant79/silaturism/tree/main/maps/thumbs/camigliatello.jpg"
+    },
+    {
+      "id": "lago_cecita",
+      "name": "Lago Cecita",
+      "description": "Area del Lago Cecita e sentieri circostanti",
+      "size_mb": 12,
+      "url": "https://github.com/alexpant79/silaturism/tree/main/lago_cecita.mbtiles",
+      "pois_url": "https://github.com/alexpant79/silaturism/tree/main/pois/lago_cecita_pois.json",
+      "pois_count": 8,
+      "version": "1.0",
+      "bounds": {
+        "north": 39.32,
+        "south": 39.25,
+        "east": 16.45,
+        "west": 16.38
+      },
+      "thumbnail": "https://github.com/alexpant79/silaturism/tree/main/maps/thumbs/lago_cecita.jpg"
+    }
+  ]
+}

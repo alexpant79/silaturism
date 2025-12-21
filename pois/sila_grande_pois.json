@@ -1,0 +1,20 @@
+[
+  {
+    "lat": 39.2856,
+    "lon": 16.4186,
+    "title": "Lago Cecita",
+    "description": "Il Lago Cecita è un bacino artificiale situato nel cuore della Sila Grande...",
+    "image": "lago_cecita.jpg",
+    "image_url": "https://github.com/TUO_USERNAME/silaturism-app/raw/main/images/lago_cecita.jpg",
+    "audio": "lago_cecita.mp3",
+    "audio_url": "https://github.com/TUO_USERNAME/silaturism-app/raw/main/audio/lago_cecita.mp3"
+  },
+  {
+    "lat": 39.3420,
+    "lon": 16.5234,
+    "title": "Camigliatello Silano",
+    "description": "Centro turistico principale della Sila...",
+    "image": "camigliatello.jpg",
+    "image_url": "https://github.com/TUO_USERNAME/silaturism-app/raw/main/images/camigliatello.jpg"
+  }
+]
