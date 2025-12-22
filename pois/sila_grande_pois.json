@@ -2,11 +2,11 @@
   {
     "lat": 39.2856,
     "lon": 16.4186,
-    "title": "Lago Cecita",
+    "title": "Lago Arvo",
     "description": "Il Lago Cecita è un bacino artificiale situato nel cuore della Sila Grande...",
     "image": "lago_arvo.jpg",
     "image_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/images/lago_arvo.jpg",
-    "audio": "lago_cecita.mp3",
+    "audio": "lago_arvo.mp3",
     "audio_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/audio/lago_arvo.mp3"
   },
   {
@@ -19,4 +19,5 @@
   }
 
 ]
+
 
