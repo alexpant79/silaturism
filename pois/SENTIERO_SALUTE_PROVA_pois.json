@@ -1,9 +1,9 @@
 [
   {
-    "lat": 39.4016666,
-    "lon": 16.561944,
-    "title": "punto partenza",
-    "description": "punto partenza",
+    "lat": 39.4017,
+    "lon": 16.5619,
+    "title": "INIZIO",
+    "description": "INIZIO SENTIERO",
     "image": "01 partenza.jpg",
     "image_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/images/01 partenza.jpg"
   },
@@ -11,7 +11,7 @@
     "lat": 39.3328,
     "lon": 16.4281,
     "title": "FINE SENTIERO",
-    "description": "FINE SENTIERO NEI PRESSI M.M.",
+    "description": "FINE SENTIERO M.M,",
     "image": "P20260106_152621.jpg",
     "image_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/images/P20260106_152621.jpg"
   }
