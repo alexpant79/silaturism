@@ -1,9 +1,9 @@
 [
   {
-    "lat": 39.336827,
-    "lon": 16.440888,
+    "lat": 39.4016666,
+    "lon": 16.561944,
     "title": "punto partenza",
-    "description": "inizio sentiero salute",
+    "description": "punto partenza",
     "image": "01 partenza.jpg",
     "image_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/images/01 partenza.jpg"
   }
