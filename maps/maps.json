@@ -52,7 +52,7 @@
     {
       "id": "Sentiero_salute",
       "name": "Sentiero della Salute",
-      "description": "Sentiero per le attivitÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  di escursione ",
+      "description": "Sentiero per le attivitÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  di escursione ",
       "size_mb": 12,
       "url": "https://github.com/alexpant79/silaturism/blob/main/maps/sila_grande.mbtiles",
       "pois_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/pois/Sentiero_salute_pois.json",
@@ -98,6 +98,17 @@
       "size_mb": 10,
       "url": "https://github.com/alexpant79/silaturism/blob/main/maps/sila_grande.mbtiles",
       "pois_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/pois/SILA_pois.json",
+      "pois_count": 1,
+      "version": "1.0",
+      "gpx_tracks": []
+    },
+    {
+      "id": "SENTIERO SALUTE",
+      "name": "SENTIERO SALUTE",
+      "description": "",
+      "size_mb": 10,
+      "url": "https://github.com/alexpant79/silaturism/blob/main/maps/sila_grande.mbtiles",
+      "pois_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/pois/SENTIERO SALUTE_pois.json",
       "pois_count": 1,
       "version": "1.0",
       "gpx_tracks": []
