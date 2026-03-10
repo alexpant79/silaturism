@@ -48,27 +48,6 @@
           "url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/gpx/04_SIL_G sentiero salute anelloTraccia_2024-05-16 110548 GARMIN con wp.gpx"
         }
       ]
-    },
-    {
-      "id": "SENTIERO_SALUTE_PROVA",
-      "name": "SENTIERO SALUTE",
-      "description": "SENTIERO PER TUTTI",
-      "size_mb": 5,
-      "url": "https://github.com/alexpant79/silaturism/blob/main/maps/sila_grande.mbtiles",
-      "pois_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/pois/SENTIERO_SALUTE_PROVA_pois.json",
-      "pois_count": 2,
-      "version": "1.0",
-      "gpx_tracks": [
-        {
-          "id": "prova_ridotta_sentiero_salute_26_06_01",
-          "name": "Prova ridotta sentiero salute 26 06 01",
-          "description": "Tracciato GPX per SENTIERO SALUTE",
-          "distance_km": 0,
-          "duration_hours": 0,
-          "difficulty": "medio",
-          "url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/gpx/prova ridotta sentiero salute 26_06_01.gpx"
-        }
-      ]
     }
   ]
 }
