@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "lat": 39.2856,
+    "lon": 16.4186,
+    "title": "PONTE",
+    "description": "",
+    "images": [
+      "P20260106_145048.jpg"
+    ],
+    "image": "P20260106_145048.jpg",
+    "image_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/images/P20260106_145048.jpg"
+  }
+]
