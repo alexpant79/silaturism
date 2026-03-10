@@ -13,5 +13,16 @@
     "description": "Centro turistico principale della Sila...",
     "image": "camigliatello.jpg",
     "image_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/images/camigliatello.jpg"
+  },
+  {
+    "lat": 39.34802,
+    "lon": 16.16626,
+    "title": "faggio",
+    "description": "faggio secolare",
+    "images": [
+      "05 faggio.jpg"
+    ],
+    "image": "05 faggio.jpg",
+    "image_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/images/05 faggio.jpg"
   }
 ]
