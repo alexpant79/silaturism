@@ -48,6 +48,17 @@
           "url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/gpx/04_SIL_G sentiero salute anelloTraccia_2024-05-16 110548 GARMIN con wp.gpx"
         }
       ]
+    },
+    {
+      "id": "SENTIERO_DELLA_SALUTE_10032026",
+      "name": "SENTIERO DELLA SALUTE RIDOTTO 1003202026",
+      "description": "SENTIERO PROVA",
+      "center_lat": 39.2856,
+      "center_lon": 16.4186,
+      "zoom": 12,
+      "gpx_files": [
+        "SENTIERO_DELLA_SALUTE_10032026_prova ridotta sentiero salute 26_06_01.gpx"
+      ]
     }
   ]
 }
