@@ -21,6 +21,17 @@
       "gpx_files": [
         "SENTIERO_DELLA_SALUTE_10032026_prova ridotta sentiero salute 26_06_01.gpx"
       ]
+    },
+    {
+      "id": "Lago Arvo",
+      "name": "Lago arvo ",
+      "description": "Il lago si trova nei pressi di Lorica",
+      "size_mb": 10,
+      "url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/maps/Lago Arvo.mbtiles",
+      "pois_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/pois/Lago Arvo_pois.json",
+      "pois_count": 1,
+      "version": "1.0",
+      "gpx_tracks": []
     }
   ]
 }
