@@ -39,5 +39,16 @@
     ],
     "image": "01 BRONZI DI RIACE.jpg",
     "image_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/images/01 BRONZI DI RIACE.jpg"
+  },
+  {
+    "lat": 39.300114,
+    "lon": 16.253055,
+    "title": "Il Lupo della Sila (Mimmo Rotella)",
+    "description": "Il Lupo della Sila (Mimmo Rotella)\nUn omaggio al maestro del décollage, nato a Catanzaro ma legato a tutta la Calabria. Quest'opera stilizzata rappresenta il simbolo della Sila e della provincia di Cosenza, realizzata con una linea moderna e possente.",
+    "images": [
+      "02A LUPO.jpg"
+    ],
+    "image": "02A LUPO.jpg",
+    "image_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/images/02A LUPO.jpg"
   }
 ]
