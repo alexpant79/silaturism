@@ -12,5 +12,19 @@
       3,
       4
     ]
+  },
+  {
+    "name": "MUSEO MAB COSENZA",
+    "difficulty": "Facile",
+    "distance": 0,
+    "duration": "",
+    "elevation": 0,
+    "description": "Benvenuto a Cosenza! Il MAB (Museo all'Aperto Bilotti) è un vero gioiello urbano, unico nel suo genere in Italia. Una galleria che respira insieme alla città lungo il centralissimo Corso Mazzini.",
+    "gpx_file": "sila_grande_museo_mab_cosenza.gpx",
+    "gpx_url": "https://raw.githubusercontent.com/alexpant79/silaturism/main/gpx/sila_grande_museo_mab_cosenza.gpx",
+    "poi_indices": [
+      3,
+      4
+    ]
   }
 ]
